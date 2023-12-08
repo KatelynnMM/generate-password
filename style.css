@@ -17,6 +17,17 @@ body {
   background-color: #f9fbfd;
 }
 
+
+section {
+  margin: auto;
+  max-width: 200px;
+  padding: 30px 40px;
+}
+
+
+
+
+
 .wrapper {
   padding-top: 30px;
   padding-left: 20px;
@@ -76,8 +87,7 @@ header {
   border: none;
   background-color: hsl(360, 91%, 36%);
   border-radius: 25px;
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
-    0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px 0px;
   color: hsl(0, 0%, 100%);
   display: inline-block;
   font-size: 22px;
