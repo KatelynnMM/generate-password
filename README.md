@@ -100,3 +100,5 @@ You are required to submit the following for review:
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
 https://katelynnmm.github.io/generate-password/
+
+![Password](<Screenshot 2023-12-11 181311.png>)
